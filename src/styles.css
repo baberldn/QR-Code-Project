@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+  }
+  
+  .qr-holder {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
